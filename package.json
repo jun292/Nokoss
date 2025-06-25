@@ -1,7 +1,7 @@
 {
-  "name": "WFC POINT",
+  "name": "TOKO JUNEK",
   "version": "1.0.0",
-  "description": "WFC POINT.",
+  "description": "TOKO JUNEK.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -14,7 +14,7 @@
     "mongoose",
     "dana"
   ],
-  "author": "Abang Keren",
+  "author": "Junek",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.8",
