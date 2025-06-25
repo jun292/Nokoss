@@ -10,7 +10,7 @@ const PORT = 3000;
 
 const MONGODB_URI = 'mongodb+srv://zanssxploit:pISqUYgJJDfnLW9b@cluster0.fgram.mongodb.net/virtual_db?retryWrites=true&w=majority';
 const SESSION_SECRET = 'SECRET_KEY_SESSION_NOKOS_APP_ULTRA_PRO';
-const DEFAULT_VIRTUSIM_API_KEY = 'T3xMHVSEuXtbyfm2WjdPwzIOG6F7hY'; // PASTIKAN INI VALID
+const DEFAULT_VIRTUSIM_API_KEY = 'c16f68ab31358c74b5c1c7aaa90bb9df'; // PASTIKAN INI VALID
 const VIRTUSIM_API_BASE_URL = 'https://virtusim.com/api/v2/json.php';
 
 app.use(express.json());
